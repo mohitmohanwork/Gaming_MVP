@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0-Beta00050</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="ZNxt.Net.Core" Version="1.0.65" />
+    <PackageReference Include="MongoDB.Driver" Version="2.12.0" />
+    <PackageReference Include="AWSSDK.Core" Version="3.5.1.37" />
+    <PackageReference Include="AWSSDK.S3" Version="3.5.4.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="wwwroot\**\*.*">
+      <PackPath>.</PackPath>
+      <Pack>true</Pack>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="collections\**\*.*">
+      <PackPath>.</PackPath>
+      <Pack>true</Pack>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\sso\img\" />
+  </ItemGroup>
+</Project>

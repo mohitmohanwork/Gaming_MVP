@@ -1,0 +1,9 @@
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.notifier/bin/Debug/netstandard2.0/gamemvp.notifier.deps.json
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.notifier/bin/Debug/netstandard2.0/gamemvp.notifier.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.notifier/bin/Debug/netstandard2.0/gamemvp.notifier.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.notifier/obj/Debug/netstandard2.0/gamemvp.notifier.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.notifier/obj/Debug/netstandard2.0/gamemvp.notifier.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.notifier/obj/Debug/netstandard2.0/gamemvp.notifier.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.notifier/obj/Debug/netstandard2.0/gamemvp.notifier.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.notifier/obj/Debug/netstandard2.0/gamemvp.notifier.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.notifier/obj/Debug/netstandard2.0/gamemvp.notifier.pdb

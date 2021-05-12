@@ -1,0 +1,12 @@
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/obj/Debug/netstandard2.0/Blaash.Gaming.Service.Events.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/obj/Debug/netstandard2.0/Blaash.Gaming.Service.Events.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/obj/Debug/netstandard2.0/Blaash.Gaming.Service.Events.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/obj/Debug/netstandard2.0/Blaash.Gaming.Service.Events.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/bin/Debug/netstandard2.0/Blaash.Gaming.Service.Events.deps.json
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/bin/Debug/netstandard2.0/Blaash.Gaming.Service.Events.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/bin/Debug/netstandard2.0/Blaash.Gaming.Service.Events.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/bin/Debug/netstandard2.0/Blaash.Gaming.Service.Common.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/bin/Debug/netstandard2.0/Blaash.Gaming.Service.Common.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/obj/Debug/netstandard2.0/Blaash.Gaming.Service.Events.csproj.CopyComplete
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/obj/Debug/netstandard2.0/Blaash.Gaming.Service.Events.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/obj/Debug/netstandard2.0/Blaash.Gaming.Service.Events.pdb

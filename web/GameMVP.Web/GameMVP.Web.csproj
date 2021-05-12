@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <!--<UserSecretsId>e5a3465d-9c1d-46c7-8bd9-d295229e7a2b</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>-->
+    <!--<SpaRoot>spaui\</SpaRoot>
+     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>-->
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App">
+      <PrivateAssets Condition="'%(PackageReference.Version)' == ''">all</PrivateAssets>
+      <Publish Condition="'%(PackageReference.Version)' == ''">true</Publish>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.2.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.5" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ZNxt.Net.Core.Web" Version="1.0.66" />
+    <PackageReference Include="ZNxt.Net.Core" Version="1.0.65" />
+  </ItemGroup>
+
+  <!--<ItemGroup>
+    <ProjectReference Include="..\game.api\game.api\game.api.csproj" />
+    <ProjectReference Include="..\gamemvp.campaign\gamemvp.campaign.csproj" />
+    <ProjectReference Include="..\gamemvp.contentmgt\gamemvp.contentmgt.csproj" />
+    <ProjectReference Include="..\gamemvp.eventservice\gamemvp.eventservice.csproj" />
+    <ProjectReference Include="..\gamemvp.gameplay\gamemvp.gameplay.csproj" />
+    <ProjectReference Include="..\gamemvp.gamerepo\gamemvp.gamerepo.csproj" />
+    <ProjectReference Include="..\gamemvp.notifier\gamemvp.notifier.csproj" />
+    <ProjectReference Include="..\gamemvp.profiling\gamemvp.profiling.csproj" />
+    <ProjectReference Include="..\gamemvp.tenantmgmt\gamemvp.tenantmgmt.csproj" />
+  </ItemGroup>-->
+
+  <ItemGroup>
+    <Content Update="znxtsettings.json.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="ZNxtIdentitySigning.pfx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+ 
+  <ItemGroup>
+    <Content Update="wwwroot\**\*.*">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

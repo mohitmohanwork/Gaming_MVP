@@ -1,0 +1,12 @@
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/bin/Debug/netstandard2.0/gamemvp.campaign.deps.json
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/bin/Debug/netstandard2.0/gamemvp.campaign.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/bin/Debug/netstandard2.0/gamemvp.campaign.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/bin/Debug/netstandard2.0/gamemvp.common.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/bin/Debug/netstandard2.0/gamemvp.common.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/gamemvp.campaign.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/gamemvp.campaign.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/gamemvp.campaign.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/gamemvp.campaign.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/gamemvp.campaign.csproj.CopyComplete
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/gamemvp.campaign.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/gamemvp.campaign.pdb

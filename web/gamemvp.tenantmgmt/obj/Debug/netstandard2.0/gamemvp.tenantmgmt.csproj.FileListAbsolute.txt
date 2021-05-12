@@ -1,0 +1,12 @@
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/bin/Debug/netstandard2.0/gamemvp.tenantmgmt.deps.json
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/bin/Debug/netstandard2.0/gamemvp.tenantmgmt.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/bin/Debug/netstandard2.0/gamemvp.tenantmgmt.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/bin/Debug/netstandard2.0/gamemvp.common.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/bin/Debug/netstandard2.0/gamemvp.common.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/obj/Debug/netstandard2.0/gamemvp.tenantmgmt.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/obj/Debug/netstandard2.0/gamemvp.tenantmgmt.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/obj/Debug/netstandard2.0/gamemvp.tenantmgmt.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/obj/Debug/netstandard2.0/gamemvp.tenantmgmt.csproj.CopyComplete
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/obj/Debug/netstandard2.0/gamemvp.tenantmgmt.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/obj/Debug/netstandard2.0/gamemvp.tenantmgmt.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.tenantmgmt/obj/Debug/netstandard2.0/gamemvp.tenantmgmt.csprojAssemblyReference.cache

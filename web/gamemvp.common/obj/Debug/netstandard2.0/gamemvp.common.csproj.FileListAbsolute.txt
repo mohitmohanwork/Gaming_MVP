@@ -1,0 +1,9 @@
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.common/bin/Debug/netstandard2.0/gamemvp.common.deps.json
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.common/bin/Debug/netstandard2.0/gamemvp.common.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.common/bin/Debug/netstandard2.0/gamemvp.common.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.common/obj/Debug/netstandard2.0/gamemvp.common.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.common/obj/Debug/netstandard2.0/gamemvp.common.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.common/obj/Debug/netstandard2.0/gamemvp.common.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.common/obj/Debug/netstandard2.0/gamemvp.common.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.common/obj/Debug/netstandard2.0/gamemvp.common.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.common/obj/Debug/netstandard2.0/gamemvp.common.pdb

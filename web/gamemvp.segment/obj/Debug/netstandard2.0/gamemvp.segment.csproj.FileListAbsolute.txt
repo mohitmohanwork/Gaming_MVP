@@ -1,0 +1,9 @@
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.segment/bin/Debug/netstandard2.0/gamemvp.segment.deps.json
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.segment/bin/Debug/netstandard2.0/gamemvp.segment.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.segment/bin/Debug/netstandard2.0/gamemvp.segment.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.segment/obj/Debug/netstandard2.0/gamemvp.segment.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.segment/obj/Debug/netstandard2.0/gamemvp.segment.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.segment/obj/Debug/netstandard2.0/gamemvp.segment.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.segment/obj/Debug/netstandard2.0/gamemvp.segment.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.segment/obj/Debug/netstandard2.0/gamemvp.segment.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.segment/obj/Debug/netstandard2.0/gamemvp.segment.pdb

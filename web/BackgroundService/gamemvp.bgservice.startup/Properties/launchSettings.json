@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "gamemvp.bgservice.startup": {
+      "commandName": "Project"
+    }
+  }
+}

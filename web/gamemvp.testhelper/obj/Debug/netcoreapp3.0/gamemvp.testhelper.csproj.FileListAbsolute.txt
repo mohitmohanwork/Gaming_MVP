@@ -1,0 +1,9 @@
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.testhelper/bin/Debug/netcoreapp3.0/gamemvp.testhelper.deps.json
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.testhelper/bin/Debug/netcoreapp3.0/gamemvp.testhelper.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.testhelper/bin/Debug/netcoreapp3.0/gamemvp.testhelper.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.testhelper/obj/Debug/netcoreapp3.0/gamemvp.testhelper.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.testhelper/obj/Debug/netcoreapp3.0/gamemvp.testhelper.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.testhelper/obj/Debug/netcoreapp3.0/gamemvp.testhelper.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.testhelper/obj/Debug/netcoreapp3.0/gamemvp.testhelper.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.testhelper/obj/Debug/netcoreapp3.0/gamemvp.testhelper.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.testhelper/obj/Debug/netcoreapp3.0/gamemvp.testhelper.pdb

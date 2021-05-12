@@ -1,0 +1,12 @@
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/bin/Debug/netstandard2.0/gamemvp.gamerepo.deps.json
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/bin/Debug/netstandard2.0/gamemvp.gamerepo.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/bin/Debug/netstandard2.0/gamemvp.gamerepo.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/bin/Debug/netstandard2.0/gamemvp.common.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/bin/Debug/netstandard2.0/gamemvp.common.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/obj/Debug/netstandard2.0/gamemvp.gamerepo.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/obj/Debug/netstandard2.0/gamemvp.gamerepo.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/obj/Debug/netstandard2.0/gamemvp.gamerepo.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/obj/Debug/netstandard2.0/gamemvp.gamerepo.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/obj/Debug/netstandard2.0/gamemvp.gamerepo.csproj.CopyComplete
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/obj/Debug/netstandard2.0/gamemvp.gamerepo.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/obj/Debug/netstandard2.0/gamemvp.gamerepo.pdb

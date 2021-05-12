@@ -1,0 +1,18 @@
+﻿[
+
+  {
+    "key": "Event",
+    "label": "Event",
+    "href": "/view_event",
+    "icon": "fa-users",
+    "display_area": "main_body",
+    "url": "#",
+    "config": {
+      "templateUrl": "app/event/event.html"
+    },
+    "auth_users": [
+      "sys_admin"
+    ],
+    "index": 90
+  }
+]

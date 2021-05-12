@@ -1,0 +1,12 @@
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/bin/Debug/netstandard2.0/blaash.gaming.service.engagement.deps.json
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/bin/Debug/netstandard2.0/blaash.gaming.service.engagement.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/bin/Debug/netstandard2.0/blaash.gaming.service.engagement.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/blaash.gaming.service.engagement.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/blaash.gaming.service.engagement.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/blaash.gaming.service.engagement.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/blaash.gaming.service.engagement.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/blaash.gaming.service.engagement.csproj.CopyComplete
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/blaash.gaming.service.engagement.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/obj/Debug/netstandard2.0/blaash.gaming.service.engagement.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/bin/Debug/netstandard2.0/Blaash.Gaming.Service.Common.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.campaign/bin/Debug/netstandard2.0/Blaash.Gaming.Service.Common.pdb

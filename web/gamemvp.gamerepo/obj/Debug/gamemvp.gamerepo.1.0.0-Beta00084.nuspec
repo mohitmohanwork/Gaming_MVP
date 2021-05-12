@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>gamemvp.gamerepo</id>
+    <version>1.0.0-Beta00084</version>
+    <authors>gamemvp.gamerepo</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="gamemvp.common" version="1.0.1-Beta00081" exclude="Build,Analyzers" />
+        <dependency id="AWSSDK.Core" version="3.5.1.37" exclude="Build,Analyzers" />
+        <dependency id="AWSSDK.S3" version="3.5.4.1" exclude="Build,Analyzers" />
+        <dependency id="Dapper.Contrib" version="2.0.78" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.12.0" exclude="Build,Analyzers" />
+        <dependency id="ZNxt.Net.Core" version="1.0.65" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.gamerepo/bin/Debug/netstandard2.0/gamemvp.gamerepo.dll" target="lib/netstandard2.0/gamemvp.gamerepo.dll" />
+  </files>
+</package>

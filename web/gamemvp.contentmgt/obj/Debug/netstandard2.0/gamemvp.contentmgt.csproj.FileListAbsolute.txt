@@ -1,0 +1,9 @@
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.contentmgt/bin/Debug/netstandard2.0/gamemvp.contentmgt.deps.json
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.contentmgt/bin/Debug/netstandard2.0/gamemvp.contentmgt.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.contentmgt/bin/Debug/netstandard2.0/gamemvp.contentmgt.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.contentmgt/obj/Debug/netstandard2.0/gamemvp.contentmgt.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.contentmgt/obj/Debug/netstandard2.0/gamemvp.contentmgt.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.contentmgt/obj/Debug/netstandard2.0/gamemvp.contentmgt.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.contentmgt/obj/Debug/netstandard2.0/gamemvp.contentmgt.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.contentmgt/obj/Debug/netstandard2.0/gamemvp.contentmgt.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.contentmgt/obj/Debug/netstandard2.0/gamemvp.contentmgt.csprojAssemblyReference.cache

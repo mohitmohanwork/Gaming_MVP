@@ -1,0 +1,90 @@
+﻿<Properties StartupConfiguration="{E4AC78CC-9C13-4BE3-812F-29E6B652C916}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../gamemvp.gameplay/Services/Api/Game/GameController.cs">
+    <Files>
+      <File FileName="../gamemvp.gameplay/Services/Api/Game/GameController.cs" Line="42" Column="5" />
+      <File FileName="../gamemvp.gameplay/Services/Api/Game/Models/GameLaunchRequest.cs" />
+      <File FileName="../gamemvp.gameplay/Services/Api/Game/Models/GameCancelResponse.cs" />
+      <File FileName="../gamemvp.gameplay/Services/Api/Game/Models/RewardItem.cs" />
+      <File FileName="../gamemvp.gameplay/Services/Api/Game/Models/BonusRewardRequest.cs" />
+      <File FileName="../gamemvp.gameplay/Services/Api/Game/Models/BonusRewardResponse.cs" />
+      <File FileName="../gamemvp.gameplay/Services/Api/Game/Models/GameCancelRequest.cs" />
+      <File FileName="../gamemvp.gameplay/Services/Api/Game/Models/GameLaunchResponse.cs" />
+      <File FileName="../gamemvp.gameplay/Services/Api/Game/Models/GameLevelFinishRequest.cs" />
+      <File FileName="../gamemvp.gameplay/Services/Api/Game/Models/GameLevelFinishResponse.cs" />
+      <File FileName="../gamemvp.eventservice/Consts/EventConsts.cs" />
+      <File FileName="../gamemvp.gameplay/Constants/GamePlayConsts.cs" />
+      <File FileName="../gamemvp.common/Constants/GameMvpCommonConsts.cs" />
+      <File FileName="../gamemvp.common/Constants/RequestPageData.cs" />
+      <File FileName="../gamemvp.common/Models/ResponseCode/ResponseErrorCode.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameMVP.Web" expanded="True">
+            <Node name="Common" expanded="True">
+              <Node name="Blaash.Gaming.Service.Common" expanded="True">
+                <Node name="Constants" expanded="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="Base" expanded="True" />
+                  <Node name="Event" expanded="True" />
+                  <Node name="Identity" expanded="True" />
+                  <Node name="ResponseCode" expanded="True" />
+                </Node>
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="gamemvp.testhelper" expanded="True">
+                <Node name="Helpers" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Service.Behaviour" expanded="True" />
+            <Node name="Service.Events" expanded="True">
+              <Node name="Blaash.Gaming.Service.Events" expanded="True">
+                <Node name="Services" expanded="True">
+                  <Node name="Api" expanded="True">
+                    <Node name="Event" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Blaash.Gaming.Service.Events.Test" expanded="True">
+                <Node name="Helpers" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Service.Gameplay" expanded="True">
+              <Node name="blaash.gaming.service.gameplay" expanded="True">
+                <Node name="Dependencies" expanded="True" />
+                <Node name="Constants" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="Api" expanded="True">
+                    <Node name="Game" expanded="True">
+                      <Node name="Models" expanded="True" />
+                      <Node name="GameController.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Service.Notification" expanded="True" />
+            <Node name="Service.Segment" expanded="True" />
+            <Node name="Service.TenantManagement" expanded="True" />
+            <Node name="GameMVP.Web.Test" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Service.Events.Blaash.Gaming.Service.Events.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/Services/Api/Event/EventController.cs" line="42" column="1" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/gamemvp.eventservice/Services/Api/Event/EventController.cs" line="95" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="blaash.gaming" Email="" Copyright="" Company="Blaash" Trademark="" />
+</Properties>

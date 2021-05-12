@@ -1,0 +1,9 @@
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/game.api/game.api/bin/Debug/netstandard2.0/game.api.deps.json
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/game.api/game.api/bin/Debug/netstandard2.0/game.api.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/game.api/game.api/bin/Debug/netstandard2.0/game.api.pdb
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/game.api/game.api/obj/Debug/netstandard2.0/game.api.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/game.api/game.api/obj/Debug/netstandard2.0/game.api.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/game.api/game.api/obj/Debug/netstandard2.0/game.api.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/game.api/game.api/obj/Debug/netstandard2.0/game.api.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/game.api/game.api/obj/Debug/netstandard2.0/game.api.dll
+/Users/mohitmohan/WorkSpace/Bonusify/Source/GamesMVP/MVP_Server/web/game.api/game.api/obj/Debug/netstandard2.0/game.api.pdb
